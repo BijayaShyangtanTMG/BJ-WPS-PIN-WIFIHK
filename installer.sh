@@ -1,3 +1,6 @@
+apt update 
+apt upgrade
+apt install git
 apt install python3
 
 git clone https://github.com/BijayaShyangtanTMG/BJ-WPS-PIN-WIFIHK
