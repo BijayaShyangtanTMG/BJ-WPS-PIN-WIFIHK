@@ -24,3 +24,12 @@ This is a simple Wi-Fi hacking tool based on WPS PIN, written in Python, designe
 To run the tool, use the following command:
 ```bash
 python3 BJ-wps.py -i wlan0 -K
+
+
+
+Important Notes
+This Python script can only hack some WPS PIN-enabled networks. Nowadays, most networks use WPA/WPA2 security, so this tool cannot hack all networks.
+This tool is intended for learning purposes and should be used responsibly. It is not very effective against all types of network security.
+Please do not blame the developer if the tool does not work as expected. This tool is based on Python and has its limitations.
+Disclaimer
+This tool is for educational purposes only. Unauthorized use of this tool to access networks without permission is illegal and unethical. The developer is not responsible for any misuse of this tool.
