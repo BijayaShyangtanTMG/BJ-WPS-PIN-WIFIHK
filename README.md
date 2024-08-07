@@ -1,3 +1,4 @@
+# BJ-WPS-PIN-WIFIHK
 
 # Overview
 **BJ-wps.py** performs [Pixie Dust attack](https://forums.kali.org/showthread.php?24286-WPS-Pixie-Dust-Attack-Offline-WPS-Attack) without having to switch to monitor mode.
@@ -11,8 +12,6 @@
  - [Wpa supplicant](https://www.w1.fi/wpa_supplicant/);
  - [Pixiewps](https://github.com/wiire-a/pixiewps);
  - [iw](https://wireless.wiki.kernel.org/en/users/documentation/iw).
-
-# BJ-WPS-PIN-WIFIHK
 
 ## Description
 This is a simple Wi-Fi hacking tool based on WPS PIN, written in Python, designed to run on a Nethunter mobile terminal. It is intended for educational purposes and to help users learn about Wi-Fi security.
