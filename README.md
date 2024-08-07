@@ -16,7 +16,7 @@
 ## Description
 This is a simple Wi-Fi hacking tool based on WPS PIN, written in Python, designed to run on a Nethunter mobile terminal. It is intended for educational purposes and to help users learn about Wi-Fi security.
 
-## Requirements
+## Requirements on Nethunter
 - Python 3 installed on your Nethunter mobile terminal.
 - ROOT
 ## Installation
